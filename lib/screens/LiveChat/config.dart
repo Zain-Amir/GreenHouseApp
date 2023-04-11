@@ -1,2 +1,0 @@
-const url = 'wss://greenhouse-p1lsm3b3.livekit.cloud';
-const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODEwODg3MTQsImlzcyI6IkFQSURIY0gzVFc2ZWJBMyIsIm5iZiI6MTY4MTA4NzgxNCwic3ViIjoicXEiLCJ2aWRlbyI6eyJjYW5QdWJsaXNoIjp0cnVlLCJjYW5QdWJsaXNoRGF0YSI6dHJ1ZSwiY2FuU3Vic2NyaWJlIjp0cnVlLCJyb29tIjoicXEiLCJyb29tSm9pbiI6dHJ1ZX19.zuIJqiF06s7yeelm-ZwM73Gg-OwsYC4gJTos8vhUqbA";
